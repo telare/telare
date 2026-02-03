@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**telare/telare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm telare 👋
 
-Here are some ideas to get you started:
+  ### Computer Science Student & Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <em>Specializing in React, Next.js, and Node.js eco-system.</em>
+  </p>
+
+  ---
+
+  ### 🛠 Tech Stack
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,php,react,html,bootstrap,css,js,linux,git,mysql,nodejs,python,figma,docker,aws&perline=10" />
+  </a>
+
+  <br />
+  <br />
+
+  ### 📊 Most Used Languages
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telare&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
