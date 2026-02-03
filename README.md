@@ -18,9 +18,5 @@
 
   <br />
   <br />
-
-  ### 📊 Most Used Languages
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telare&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
-
+ 
 </div>
