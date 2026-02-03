@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm telare 👋
+  # Hi, I'm Andrii 👋
 
   ### Full Stack Developer
 
