@@ -12,10 +12,13 @@
 
   ### 🛠 Tech Stack
 
+<div align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,postgresql,tailwindcss,redux,nodejs,js&perline=10" />
-     <img src="https://skillicons.dev/icons?i=docker,aws,html,css,scss,git,figma,linux,express&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,postgresql,tailwindcss,redux,nodejs,js" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=docker,aws,html,css,scss,git,figma,linux,express" />
   </a>
+</div>
 
   <br />
   <br />
