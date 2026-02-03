@@ -5,7 +5,7 @@
   ### Computer Science Student & Full Stack Developer
 
   <p>
-    <em>Specializing in React, Next.js, and Node.js eco-system.</em>
+    <em>Specializing in React eco-system.</em>
   </p>
 
   ---
